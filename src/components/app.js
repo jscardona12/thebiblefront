@@ -4,7 +4,7 @@ import Program from './program';
 import Programs from './programs';
 import {Link} from 'react-router';
 import Navbarfix from './navbarfix';
-
+//juan cardona: la aplicacion corre muy bien, esta muy bien hecha, pero la interfaz es muy tosca, la hubiera podida hacer mas amigable.
 const ROOT_URL = "https://thebibleapp.herokuapp.com/api";
 // const ROOT_URL = "http://localhost:3000/api";
 
