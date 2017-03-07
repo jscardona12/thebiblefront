@@ -9,7 +9,7 @@ Frontend: https://github.com/miarevalo10/thebiblefront <br>
 Backend: https://github.com/jgmurillo10/thebibleapp
 
 [![NPM Version][npm-image]][npm-url]
-
+[juan cardona]: <> (Muy bien documentado todo, la descripcion del api es muy util)
 ## Synopsis
 
 This project is an web application designed for storage academic data organized by program and course at Universidad de los Andes
